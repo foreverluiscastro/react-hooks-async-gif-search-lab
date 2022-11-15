@@ -34,3 +34,6 @@ jspm_packages
 
 # Ignore ESLint files
 .eslintcache
+
+# dotenv file containing api key
+.env

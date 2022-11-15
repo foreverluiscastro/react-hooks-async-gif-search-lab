@@ -1,0 +1,9 @@
+.float-child {
+    width: 50%;
+    float: left;
+    padding: 20px;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
